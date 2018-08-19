@@ -1,0 +1,19 @@
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\Cartek Project.exe.config
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\Cartek Project.exe
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\Cartek Project.pdb
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek Project.csprojResolveAssemblyReference.cache
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.MainSystemForm.resources
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.Properties.Resources.resources
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek Project.csproj.GenerateResource.Cache
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek Project.csproj.CoreCompileInputs.cache
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek Project.exe
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek Project.pdb
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\MaterialSkin.dll
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\Npgsql.dll
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.DataBaseLogIn.resources
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\GACInstall.exe
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\GACInstall.exe.config
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\bin\Debug\Mono.Security.dll
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.EmployForm.resources
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.ManagerForm.resources
+D:\Escuela\5-Quinto Semestre\Seminario Ingenieria de Software\Cartek Project\Cartek Project\obj\Debug\Cartek_Project.Producto.resources

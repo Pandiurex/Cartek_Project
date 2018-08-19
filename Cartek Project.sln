@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartek Project", "Cartek Project\Cartek Project.csproj", "{3DDE5B8D-DC00-45A3-A9DE-86EB46238883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDE5B8D-DC00-45A3-A9DE-86EB46238883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDE5B8D-DC00-45A3-A9DE-86EB46238883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDE5B8D-DC00-45A3-A9DE-86EB46238883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDE5B8D-DC00-45A3-A9DE-86EB46238883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C7F3C4-0E34-4BAE-B985-D483E8186AAE}
+	EndGlobalSection
+EndGlobal
